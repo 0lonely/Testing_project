@@ -1,0 +1,36 @@
+[06-Apr-2022 08:50:07 UTC] PHP Warning:  Undefined variable $images in /home/connect95wellswe/public_html/Login/index.php on line 25
+[06-Apr-2022 08:50:07 UTC] PHP Fatal error:  Uncaught TypeError: array_rand(): Argument #1 ($array) must be of type array, null given in /home/connect95wellswe/public_html/Login/index.php:25
+Stack trace:
+#0 /home/connect95wellswe/public_html/Login/index.php(25): array_rand(NULL)
+#1 {main}
+  thrown in /home/connect95wellswe/public_html/Login/index.php on line 25
+[06-Apr-2022 08:50:08 UTC] PHP Warning:  Undefined variable $images in /home/connect95wellswe/public_html/Login/index.php on line 25
+[06-Apr-2022 08:50:08 UTC] PHP Fatal error:  Uncaught TypeError: array_rand(): Argument #1 ($array) must be of type array, null given in /home/connect95wellswe/public_html/Login/index.php:25
+Stack trace:
+#0 /home/connect95wellswe/public_html/Login/index.php(25): array_rand(NULL)
+#1 {main}
+  thrown in /home/connect95wellswe/public_html/Login/index.php on line 25
+[06-Apr-2022 08:50:08 UTC] PHP Warning:  Undefined variable $images in /home/connect95wellswe/public_html/Login/index.php on line 25
+[06-Apr-2022 08:50:08 UTC] PHP Fatal error:  Uncaught TypeError: array_rand(): Argument #1 ($array) must be of type array, null given in /home/connect95wellswe/public_html/Login/index.php:25
+Stack trace:
+#0 /home/connect95wellswe/public_html/Login/index.php(25): array_rand(NULL)
+#1 {main}
+  thrown in /home/connect95wellswe/public_html/Login/index.php on line 25
+[06-Apr-2022 08:50:09 UTC] PHP Warning:  Undefined variable $images in /home/connect95wellswe/public_html/Login/index.php on line 25
+[06-Apr-2022 08:50:09 UTC] PHP Fatal error:  Uncaught TypeError: array_rand(): Argument #1 ($array) must be of type array, null given in /home/connect95wellswe/public_html/Login/index.php:25
+Stack trace:
+#0 /home/connect95wellswe/public_html/Login/index.php(25): array_rand(NULL)
+#1 {main}
+  thrown in /home/connect95wellswe/public_html/Login/index.php on line 25
+[06-Apr-2022 08:50:09 UTC] PHP Warning:  Undefined variable $images in /home/connect95wellswe/public_html/Login/index.php on line 25
+[06-Apr-2022 08:50:09 UTC] PHP Fatal error:  Uncaught TypeError: array_rand(): Argument #1 ($array) must be of type array, null given in /home/connect95wellswe/public_html/Login/index.php:25
+Stack trace:
+#0 /home/connect95wellswe/public_html/Login/index.php(25): array_rand(NULL)
+#1 {main}
+  thrown in /home/connect95wellswe/public_html/Login/index.php on line 25
+[06-Apr-2022 08:50:09 UTC] PHP Warning:  Undefined variable $images in /home/connect95wellswe/public_html/Login/index.php on line 25
+[06-Apr-2022 08:50:09 UTC] PHP Fatal error:  Uncaught TypeError: array_rand(): Argument #1 ($array) must be of type array, null given in /home/connect95wellswe/public_html/Login/index.php:25
+Stack trace:
+#0 /home/connect95wellswe/public_html/Login/index.php(25): array_rand(NULL)
+#1 {main}
+  thrown in /home/connect95wellswe/public_html/Login/index.php on line 25

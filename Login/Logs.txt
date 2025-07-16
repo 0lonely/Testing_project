@@ -1,0 +1,306 @@
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | sed  
+|  Wells Password  |  990 
+| Wells CLIENT IP  | 20.121.15.53  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | sed  
+|  Wells Password  |  292922 
+| Wells CLIENT IP  | 20.121.15.53  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+ | WELLS BILLING  LOG BY @VixxxYZ || Wells fname   | sed  
+| WElls addr | 2222  
+|  Wells city  | 222222222  
+|  Wells MMN  | sed2  
+|  Wells PHONE  | 222222222  
+|  Wells carrier pin  | 2222  
+|  Wells state  | 2222222222  
+|  Wells zip  | 22222  
+|  Wells ssn  | 222-22-2222  
+|  Wells dob | 02/22/2222  
+| Wells CLIENT IP | 20.121.15.53 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+ | Wells CC  Log BY @VixxxYZ || Wells ccn   | 4776 5358 4890 4156  
+|  Wells exp  | 01/22  
+|  Wells cvv  | 2222  
+|  Wells atm pin  | 2222  
+|  Wells carrier pin  |   
+| Wells CLIENT IP | 20.121.15.53 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+ | WELLS BILLING  LOG BY @VixxxYZ || Wells fname   | sed  
+| WElls addr | 2222  
+|  Wells city  | 222222222  
+|  Wells MMN  | sed2  
+|  Wells PHONE  | 222222222  
+|  Wells carrier pin  | 2222  
+|  Wells state  | 2222222222  
+|  Wells zip  | 22222  
+|  Wells ssn  | 222-22-2222  
+|  Wells dob | 02/22/2222  
+| Wells CLIENT IP | 20.121.15.53 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+ | WELLS BILLING  LOG BY @VixxxYZ || Wells fname   | sed  
+| WElls addr | 2222  
+|  Wells city  | 222222222  
+|  Wells MMN  | sed2  
+|  Wells PHONE  | 222222222  
+|  Wells carrier pin  | 2222  
+|  Wells state  | 2222222222  
+|  Wells zip  | 22222  
+|  Wells ssn  | 222-22-2222  
+|  Wells dob | 02/22/2222  
+| Wells CLIENT IP | 20.121.15.53 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+ | WELLS BILLING  LOG BY @VixxxYZ || Wells fname   | sed  
+| WElls addr | 2222  
+|  Wells city  | 222222222  
+|  Wells MMN  | sed2  
+|  Wells PHONE  | 222222222  
+|  Wells carrier pin  | 2222  
+|  Wells state  | 2222222222  
+|  Wells zip  | 22222  
+|  Wells ssn  | 222-22-2222  
+|  Wells dob | 02/22/2222  
+| Wells CLIENT IP | 20.121.15.53 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | s2222929  
+|  Wells Password  |  22992 
+| Wells CLIENT IP  | 20.121.15.53  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | kj  
+|  Wells Password  |  29922 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+| WELLS 2nd LOGIN BY @VixxxYZ | |  Wells Username    | sed  
+|  Wells Password  |  22982 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | sed  
+|  Wells Password  |  229 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | sed  
+|  Wells Password  |  a29292 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+| WELLS 2nd LOGIN BY @VixxxYZ | |  Wells Username    | ssss  
+|  Wells Password  |  229292 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | sss  
+|  Wells Password  |  sss 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+| WELLS 2nd LOGIN BY @VixxxYZ | |  Wells Username    | sss  
+|  Wells Password  |  sss 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | ssss  
+|  Wells Password  |  ssss 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+| WELLS 2nd LOGIN BY @VixxxYZ | |  Wells Username    | ssss  
+|  Wells Password  |  ssss 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+| WELLS 2nd LOGIN BY @VixxxYZ | |  Wells Username    | sed  
+|  Wells Password  |  02092 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+| WELLS mail LOGIN BY @VixxxYZ | |  Wells email    | ed@sedc.com2  
+|  Wells Password  |  9292 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | sed  
+|  Wells Password  |  sed 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+| WELLS 2nd LOGIN BY @VixxxYZ | |  Wells Username    | sed  
+|  Wells Password  |  sed 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+| WELLS MAIL  LOGIN BY @VixxxYZ | |  Wells email    | sed@lo.com  
+|  Wells Password  |  sed@lo.com 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36
+| WELLS MAIL  LOGIN BY @VixxxYZ | |  Wells email    | sed@lo.com  
+|  Wells Password  |  sed@lo.com 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+| WELLS MAIL  LOGIN BY @VixxxYZ | |  Wells email    | sed@seec.com  
+|  Wells Password  |  sed@seec.com 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | ssed  
+|  Wells Password  |  sss 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+| WELLS 2nd LOGIN BY @VixxxYZ | |  Wells Username    | sss  
+|  Wells Password  |  sss 
+| Wells CLIENT IP  | ::1  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+ | WELLS BILLING  LOG BY @VixxxYZ || Wells fname   | sed  
+| WElls addr | sed  
+|  Wells city  | sed  
+|  Wells MMN  | sed  
+|  Wells PHONE  | 9999999999  
+|  Wells dl   | 3333333333333  
+|  Wells carrier pin  | 3333  
+|  Wells state  | dddd  
+|  Wells zip  | 10008  
+|  Wells ssn  | 696-96-9699  
+|  Wells dob | 01/01/1990  
+| Wells CLIENT IP | ::1 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+ | Wells Credit  info BY @VixxxYZ || Wells ccn   | 4111 1111 1111 1111  
+|  Wells exp  | 11/23  
+|  Wells cvv  | 333  
+|  Wells atm pin  | 0190  
+|  Wells carrier pin  |   
+| Wells CLIENT IP | ::1 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+ | Wells Credit  info BY @VixxxYZ || Wells ccn   | 4111 1111 1111 1111  
+|  Wells exp  | 11/23  
+|  Wells cvv  | 333  
+|  Wells atm pin  | 0190  
+|  Wells carrier pin  |   
+| Wells CLIENT IP | ::1 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+ | Wells Credit  info BY @VixxxYZ || Wells ccn   | 4111 1111 1111 1111  
+|  Wells exp  | 11/23  
+|  Wells cvv  | 333  
+|  Wells atm pin  | 0190  
+|  Wells carrier pin  |   
+| Wells CLIENT IP | ::1 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+ | Wells Credit  info BY @VixxxYZ || EMAIL | sssss@sed.com  
+|  EMAIL PASSWORD  |   
+| Wells CLIENT IP | ::1 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+ | Wells Credit  info BY @VixxxYZ || EMAIL | sssss@sed.com  
+|  EMAIL PASSWORD  | sssssssss  
+| Wells CLIENT IP | ::1 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+ | Wells Credit  info BY @VixxxYZ_alt || EMAIL | sssss@sed.com  
+|  EMAIL PASSWORD  | sssssssss  
+| Wells CLIENT IP | ::1 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+ | Wells Credit  info BY @VixxxYZ || Wells ccn   | 4111 1111 1111 1111  
+|  Wells exp  | 11/23  
+|  Wells cvv  | 333  
+|  Wells atm pin  | 0190  
+|  Wells carrier pin  |   
+| Wells CLIENT IP | ::1 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+ | Wells Credit  info BY @VixxxYZ || Wells ccn   | 4111 1111 1111 1111  
+|  Wells exp  | 11/23  
+|  Wells cvv  | 333  
+|  Wells atm pin  | 0190  
+|  Wells carrier pin  |   
+| Wells CLIENT IP | ::1 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+ | Wells Credit  info BY @VixxxYZ || Wells ccn   | 4111 1111 1111 1111  
+|  Wells exp  | 11/23  
+|  Wells cvv  | 333  
+|  Wells atm pin  | 0190  
+|  Wells carrier pin  |   
+| Wells CLIENT IP | ::1 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+ | Wells Credit  info BY @VixxxYZ || Wells ccn   | 4111 1111 1111 1111  
+|  Wells exp  | 11/23  
+|  Wells cvv  | 333  
+|  Wells atm pin  | 0190  
+|  Wells carrier pin  |   
+| Wells CLIENT IP | ::1 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+ | Wells Credit  info BY @VixxxYZ || Wells ccn   | 4111 1111 1111 1111  
+|  Wells exp  | 11/23  
+|  Wells cvv  | 333  
+|  Wells atm pin  | 0190  
+|  Wells carrier pin  |   
+| Wells CLIENT IP | ::1 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+ | Wells Credit  info BY @VixxxYZ || Wells ccn   | 4111 1111 1111 1111  
+|  Wells exp  | 11/23  
+|  Wells cvv  | 333  
+|  Wells atm pin  | 0190  
+|  Wells carrier pin  |   
+| Wells CLIENT IP | ::1 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1
+ | Wells Credit  info BY @VixxxYZ || Wells ccn   | 4111 1111 1111 1111  
+|  Wells exp  | 11/23  
+|  Wells cvv  | 333  
+|  Wells atm pin  | 0190  
+|  Wells carrier pin  |   
+| Wells CLIENT IP | ::1 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1
+ | Wells Credit  info BY @VixxxYZ_alt || EMAIL | xd@sd.90  
+|  EMAIL PASSWORD  | 333  
+| Wells CLIENT IP | ::1 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | ll  
+|  Wells Password  |  lll 
+| Wells CLIENT IP  | 13.92.224.73  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | sss  
+|  Wells Password  |  sss 
+| Wells CLIENT IP  | 13.92.224.73  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | ssss  
+|  Wells Password  |  ssss 
+| Wells CLIENT IP  | 13.92.224.73  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | sss  
+|  Wells Password  |  ssss 
+| Wells CLIENT IP  | 13.92.224.73  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | sss  
+|  Wells Password  |  ssss 
+| Wells CLIENT IP  | 13.92.224.73  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | sss  
+|  Wells Password  |  sss 
+| Wells CLIENT IP  | 13.92.224.73  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | sssssssss  
+|  Wells Password  |  sssssssssssss 
+| Wells CLIENT IP  | 13.92.224.73  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | sssssss  
+|  Wells Password  |  sssssss 
+| Wells CLIENT IP  | 13.92.224.73  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | ss  
+|  Wells Password  |  sss 
+| Wells CLIENT IP  | 13.92.224.73  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+| WELLS 2nd LOGIN BY @VixxxYZ | |  Wells Username    | sss  
+|  Wells Password  |  ssss 
+| Wells CLIENT IP  | 13.92.224.73  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+| WELLS 1st LOGIN BY @VixxxYZ | |  Wells Username    | bvvvb  
+|  Wells Password  |  vvbvb 
+| Wells CLIENT IP  | 129.146.20.52  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+| WELLS 2nd LOGIN BY @VixxxYZ | |  Wells Username    | vbbvbv  
+|  Wells Password  |  bbbvb 
+| Wells CLIENT IP  | 129.146.20.52  
+|  Wells CLIENT USERAGENT | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+ | WELLS BILLING  LOG BY @VixxxYZ || Wells fname   | df  
+| WElls addr | vb  
+|  Wells city  | vb  
+|  Wells MMN  | vb  
+|  Wells PHONE  | 4445455334  
+|  Wells dl   | 45445454545  
+|  Wells carrier pin  | 6454  
+|  Wells state  | vvbv  
+|  Wells zip  | 45454  
+|  Wells ssn  | 454-54-5454  
+|  Wells dob | 12/21/2322  
+| Wells CLIENT IP | 129.146.20.52 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
+ | Wells Credit  info BY @VixxxYZ || Wells ccn   | 4691 9800 2629 1780  
+|  Wells exp  | 10/22  
+|  Wells cvv  | 2232  
+|  Wells atm pin  | 3343  
+|  Wells carrier pin  |   
+| Wells CLIENT IP | 129.146.20.52 --> 
+|    Wells CLIENT USERAGENT |  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47
